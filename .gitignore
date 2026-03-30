@@ -1,0 +1,19 @@
+# Database files
+*.db
+*.sqlite
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Backup
+*~
+*.tmp
