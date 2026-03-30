@@ -1,0 +1,1 @@
+CREATE DATABASE Customer_Analytics_DB;
